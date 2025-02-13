@@ -41,11 +41,10 @@ const options = [
     "Set a custom background in settings.",
     "Tab Cloaking is highly recommended",
     "About:Blank Cloak is highly recommended",
-    "Finally, an actual site unblocker that works fast!",
-    "It is not recommended to share this link with anyone.",
-    "discord.gg/unblocking for more",
-    "© Copyright 2024 Doge Network. All Rights Reserved.",
-    "Customize Doge by going to Settings > Themes",
+    "You probably got this from rohan",
+    "Made by a true indian 🫡",
+    "© Copyright 2025 Thunder Web. All Rights Reserved.",
+    "Customize Thunder by going to Settings > Themes",
 ];
 
 function getRandomOption() {
