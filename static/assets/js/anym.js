@@ -1,5 +1,5 @@
 (function() {
-  var defaultTitle = 'Doge | V4';
+  var defaultTitle = '𝙏𝙝𝙪𝙣𝙙𝙚𝙧';
   var defaultIcon = '/assets/img/doge.jpg';
 
   var storedTitle = localStorage.getItem('tabTitle');
@@ -22,7 +22,7 @@
 })();
 
 // Clickoff Check
-var defaultTitle = 'Doge | V4';
+var defaultTitle = '𝙏𝙝𝙪𝙣𝙙𝙚𝙧';
 var defaultIcon = '/assets/img/doge.jpg';
 var storedTitle = localStorage.getItem('tabTitle');
 var storedIcon = localStorage.getItem('tabIcon');

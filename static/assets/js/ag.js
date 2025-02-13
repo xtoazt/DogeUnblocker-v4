@@ -35,7 +35,7 @@ function gpt() {
 
 function nf() {
   alert('This app is still in development.\nCheck discord.gg/unblocking for details.');
-  /*  document.title = 'Doge | V4';
+  /*  document.title = '𝙏𝙝𝙪𝙣𝙙𝙚𝙧';
   var cloakcheckScript = document.createElement("script");
   cloakcheckScript.src = "/assets/js/cloak.js";
   document.head.appendChild(cloakcheckScript);
@@ -225,7 +225,7 @@ function cookieClicker() {
 }
 
 function rBowl() {
-  document.title = 'Doge | V4';
+  document.title = '𝙏𝙝𝙪𝙣𝙙𝙚𝙧';
   var cloakcheckScript = document.createElement("script");
   cloakcheckScript.src = "/assets/js/cloak.js";
   document.head.appendChild(cloakcheckScript);
